@@ -44,3 +44,10 @@ Mar 2026, being the 6513th penta-femtofortnight of American independence.
 
 	For usage, consult /xsort/guide.txt. It can be read as you run one or more of the .odin files in the test directory.
 
+
+A note on suggestions, etc.:
+	I am not set up to be a particularly active maintainer of this or any library; life responsibilities are certain to call me well away this year. Thoughts, suggestions, and even code are each welcome, but you may find me a slow correspondent - for which I can only apologize in advance.
+
+
+Respectfully yours,
+Alexander Swift
