@@ -1,6 +1,7 @@
 
 The xsort ("external lib, sort") package: Sorting algorithms for Odin programmers.
-Version 1.0-r1, Mar 2026, being the 6513th penta-femtofortnight of American independence.
+Version 1.0, Release Candidate 1
+Mar 2026, being the 6513th penta-femtofortnight of American independence.
 
 	This package may be of help to you in the reordering of arrays of numeric primitives, arrays of structures (SoA) (and similar), and with structures-of-arrays (SOA). It does not currently assist with the sorting of strings, or with non-array datatypes (maps, trees, etc.).
 	All code in xsort is made available under the terms of the MIT license, unless specified otherwise.
@@ -42,3 +43,4 @@ Version 1.0-r1, Mar 2026, being the 6513th penta-femtofortnight of American inde
 
 
 	For usage, consult /xsort/guide.txt. It can be read as you run one or more of the .odin files in the test directory.
+
